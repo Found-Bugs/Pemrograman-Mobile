@@ -1,9 +1,9 @@
 # Pengantar Bahasa Pemrograman Dart - Bagian 1
 
 ```
-Nama: Farid Fitriansah Alfarizi
-NIM: 2241720055
-Kelas: TI-3A
+Nama     : Farid Fitriansah Alfarizi
+NIM      : 2241720055
+Kelas    : TI-3A
 ```
 
 ## Tugas Praktikum
